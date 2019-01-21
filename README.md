@@ -6,11 +6,11 @@ Analysis and predictive model on the NYC Poverty data set
 Project Organization
 ------------
 
-For a non-code project summary:
+**For a non-code project summary:**
   - Slides: https://bit.ly/2DmfVU6
   - Written report: https://bit.ly/2FKs6Md
 
-For a chronological view of this project:
+**For a chronological view of this project:**
   - DataWranglingSummary.ipynb 
     - More detail if needed in DataWranglingDetail.ipynb
   - DataStorytellingSummary.ipynb 
