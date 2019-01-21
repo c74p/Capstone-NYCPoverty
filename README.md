@@ -11,8 +11,10 @@ For a non-code project summary:
   - Written report: https://bit.ly/2FKs6Md
 
 For a chronological view of this project:
-  - DataWranglingSummary.ipynb (more detail if needed in DataWranglingDetail.ipynb)
-  - DataStorytellingSummary.ipynb (more detail if needed in Data Storytelling - Single Variable.ipynb and Data Storytelling - Multiple Variable.ipynb)
+  - DataWranglingSummary.ipynb 
+    - More detail if needed in DataWranglingDetail.ipynb
+  - DataStorytellingSummary.ipynb 
+    - More detail if needed in Data Storytelling - Single Variable.ipynb and Data Storytelling - Multiple Variable.ipynb
   - EDA.ipynb
   - Models.ipynb
 
